@@ -2,20 +2,20 @@
 A loose collection of cryptocurrency ressources
 
 ## Asset classes
-Always ask first: does a use-case justify the deployment of an own blockchain.
+Always ask first: does a use-case justify the deployment of a dedicated blockchain.
 
 - <sup>x</sup>) Wouldn't require it's own chain/token.
-- <sup>m</sup>) Not mineable.
+- <sup>nm</sup>) Not mineable.
 - <sup>nw</sup>) No working product.
 
 ### Cash Coins / Cryptocurrencies
 Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
-- Bitcoin Cash
-- Dash
+- Bitcoin Cash [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
+- Dash [[r]](https://old.reddit.com/r/dashpay/) [[f]](https://dash.org/forum)
 - ~~Litecoin~~(not actively developed anymore)
 - [OmiseGo](https://omisego.co/)
-- DAI
+- DAI<sup>nm</sup>
 
 ### GPU/ASIC-Resistant Coins
 
@@ -24,7 +24,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Monero
 - [GridCoin](https://bitcointalk.org/index.php?topic=324118.0)
 - [RieCoin](https://bitcointalk.org/index.php?topic=446703.6080)
-- [Solo](https://bitcointalk.org/index.php?topic=5120652) [r](https://www.reddit.com/r/soloproject/) (even claims pool-resistancy)
+- [Solo](https://bitcointalk.org/index.php?topic=5120652) [[r]](https://www.reddit.com/r/soloproject/) (even claims pool-resistancy)
 - [Unprll](https://bitcointalk.org/index.php?topic=5077140.0)
 - [Versus](https://bitcointalk.org/index.php?topic=4070404.0)     
 - [ZillionCoin](https://bitcointalk.org/index.php?topic=1818945.0)
@@ -53,6 +53,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Factom<sup>x</sup> (Store data onchain.)
 - [Power](https://powerledger.io/)<sup>x</sup><sup> </sup><sup>nm</sup>
 - [Dent](https://www.dentwireless.com/)<sup>x</sup><sup> </sup><sup>nm</sup>
+- Credo<sup>x</sup><sup> </sup><sup>nm</sup> (BitBounce Coin)
 
 ### Governance Coins
 
@@ -64,7 +65,6 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Ethereum
 - Ethereum Classic
 - Lisk
-- Ans
 - Neo
 - Eos
 - Binance
@@ -85,7 +85,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Ark (Fork of Lisk to counter its staking cartels)
 - GridCoin (Proof of Work)
 - VeriBlock (Proof of Proof)
-- Stellar Lumen
+- Stellar ([Federated Byzantine Agreement](http://www.scs.stanford.edu/~dm/blog/simplified-scp.html))
 - Zcoin
 
 ### Privacy
@@ -107,10 +107,16 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
 - ChainLink
 
+### Dividend Tokens
+
+- XIO 
+- CGT (CashGames Test Token) [[src]](https://explorer.bitcoin.com/bch/token/1c9229fbca8e9646589787d76f4110372608231522f6cffab45dd7ac3cb43556)
+- Drop (Cryptophyl.com Token) [[src]](https://cryptophyl.com/airdrops/drop-1)
+
 ### Joke currencies <sup>x</sup>
 
 - Doge ("Very competition. Much fast. So much wow.")
-- Bomb ("Hyperinflating experiment.")
+- Bomb<sup>!x</sup> ("Hyperinflating experiment.")
 - Banano ("4th generation fungible and edible cryptocurrency.")
 - Spice ("The spice must flow.")
 - Bitcoin ("Store of Value.")
@@ -118,22 +124,26 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - SkyCoin (Scam)
 - TenX (Scam)
 - Tron (Scam)
-
+- Ripple (Majority of tokens owned by creators.)
+- Stellar (Majority of tokens owned by creators.) <- Src?
 
 ### Unclassified Coins
 
+- [Cosmos](https://cosmos.network/)
 - [Nimiq](https://nimiq.com/whitepaper) (Browser Coin)
 - [Numerai](https://numer.ai/)
+- [Ampleforth](https://www.ampleforth.org/) [[t]](https://t.me/Ampleforth) (Stable coin with price target correction)
+- [Kyber Network](https://kyber.network/) (integrate decentralised token swaps into apps)
+- [Vechain](https://www.vechain.org/)
+- [Gnosis](https://gnosis.io/)
 - GigaByte
 - [Pluton](https://plutus.it/)
-- Bancor
-- [Kyber Network](https://kyber.network/) (integrate decentralised token swaps into apps)
+- Bancor (Crypto Creditcard)
 - Request Token
-- [Vechain](https://www.vechain.org/)
-- [Cosmos](https://cosmos.network/)
 - Decred / 0x
 - BitTorrent
 - 1st (Gaming)
 - [Enjin](https://enjincoin.io/) (Gaming)
-- [Gnosis](https://gnosis.io/)
 - Groestlcoin
+- Holo<sup>nw</sup>
+- Quantstamp<sup>nw</sup> (Auditsystem for smart contracts, y-Combinator backed.)
