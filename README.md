@@ -89,7 +89,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Stellar ([Federated Byzantine Agreement](http://www.scs.stanford.edu/~dm/blog/simplified-scp.html))
 - Zcoin
 
-### Privacy
+### Privacy Coins
 
 - Monero
 - Zcash
@@ -97,6 +97,8 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - PivX
 - Bitcoin Cash / Dash
 - Zcoin
+- Particle [[src]](https://github.com/particl) [[r]](https://reddit.com/r/Particl)
+- Verge [[src]](https://github.com/vergecurrency) [[r]](https://reddit.com/r/vergecurrency)
 
 ### Incubator Coins
 
@@ -127,6 +129,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Ripple (Majority of tokens owned by creators.)
 - Stellar (Majority of tokens owned by creators.) <- Src?
 - Tether (Scam-Likely-a)
+- Steem<sup>x</sup>
 
 ### Unclassified Coins
 
