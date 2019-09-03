@@ -74,12 +74,20 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Waves
 - Cardano<sup>nw</sup>
 
-### NoBlockchains/DAGs etc
+### DAGs
 
 - Iota
+- Nano
+- Fantom
 - [Cosmos](https://cosmos.network/)
+- Perlin (Avalanche consensus, WASM based contracts)
+
+### Blockchain Interop Projects
+
 - Lisk/Ark
-- Grin
+- Ren
+- Polkadot
+- Tendermint
 
 ### Coins with innovative initial coin distribution
 
@@ -91,6 +99,14 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Stellar ([Federated Byzantine Agreement](http://www.scs.stanford.edu/~dm/blog/simplified-scp.html))
 - Zcoin
 
+### Coins with innovative consensuses
+
+- G1 (Web of trust)
+- PI (Proof of User/Weak web of trust)
+- Perlin (Avalanche DAG)
+- IOST (Proof of Believability)
+- Burst (Proof of Capacity)
+
 ### Privacy Coins
 
 - Monero
@@ -101,6 +117,11 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Zcoin
 - Particle [[src]](https://github.com/particl) [[r]](https://reddit.com/r/Particl)
 - Verge [[src]](https://github.com/vergecurrency) [[r]](https://reddit.com/r/vergecurrency)
+
+#### Mimblewimble
+
+- Grin
+- Beam
 
 ### Incubator Coins
 
@@ -117,6 +138,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - XIO 
 - CGT (CashGames Test Token) [[src]](https://explorer.bitcoin.com/bch/token/1c9229fbca8e9646589787d76f4110372608231522f6cffab45dd7ac3cb43556)
 - Drop (Cryptophyl.com Token) [[src]](https://cryptophyl.com/airdrops/drop-1)
+- Nexo (30% of profits to token holders with KYC)
 
 ### Joke currencies <sup>x</sup>
 
@@ -135,7 +157,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
 ### Unclassified Coins
 
-- [Nimiq](https://nimiq.com/whitepaper) (Browser Coin)
+- [Nimiq](https://nimiq.com/whitepaper) (Browser first blockchain. Easy onboarding)
 - [Numerai](https://numer.ai/)
 - [Ampleforth](https://www.ampleforth.org/) [[t]](https://t.me/Ampleforth) (Stable coin with price target correction)
 - [Kyber Network](https://kyber.network/) (integrate decentralised token swaps into apps)
