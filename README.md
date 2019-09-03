@@ -11,11 +11,11 @@ Always ask first: does a use-case justify the deployment of a dedicated blockcha
 ### Cash Coins / Cryptocurrencies
 Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
-- Bitcoin Cash [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
-- Dash [[r]](https://old.reddit.com/r/dashpay/) [[f]](https://dash.org/forum)
+- Bitcoin Cash [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
+- Dash [[src]](https://github.com/dashpay) [[r]](https://old.reddit.com/r/dashpay/) [[t]](https://t.me/dash_chat) [[f]](https://dash.org/forum)
 - ~~Litecoin~~(not actively developed anymore)
-- [OmiseGo](https://omisego.co/)
-- DAI<sup>nm</sup>
+- [OmiseGo](https://omisego.co/)<sup>nm</sup> [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go)
+- [Dai](https://reddit.com/r/MakerDAO)<sup>nm</sup> [[src]](https://github.com/makerdao) [[r]](https://reddit.com/r/MakerDAO) 
 
 ### GPU/ASIC-Resistant Coins
 
@@ -39,7 +39,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - [Amity](https://bitcointalk.org/index.php?topic=5149680.0)
 - [YenTen](http://yentencoin.info/)
 - [EliCoin](https://www.elicoin.net/)
-- Myriad
+- [Myriad](http://myriadcoin.org/) (0.4 Asic, 0.4 GPU, 0.2 CPU) 
 
 ### Product Coins / Utility Tokens
 
@@ -53,6 +53,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Factom<sup>x</sup> (Store data onchain.)
 - [Power](https://powerledger.io/)<sup>x</sup><sup> </sup><sup>nm</sup>
 - [Dent](https://www.dentwireless.com/)<sup>x</sup><sup> </sup><sup>nm</sup>
+- [GET](https://get-protocol.io/)<sup>nm><sup> </sup><sup>erc20</sup> 
 - Credo<sup>x</sup><sup> </sup><sup>nm</sup> (BitBounce Coin)
 
 ### Governance Coins
@@ -123,9 +124,9 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - QRL ("We need quantum resistance.")
 - SkyCoin (Scam)
 - TenX (Scam)
-- Tron (Scam)
 - Ripple (Majority of tokens owned by creators.)
 - Stellar (Majority of tokens owned by creators.) <- Src?
+- Tether (Scam-Likely-a)
 
 ### Unclassified Coins
 
@@ -147,3 +148,12 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Groestlcoin
 - Holo<sup>nw</sup>
 - Quantstamp<sup>nw</sup> (Auditsystem for smart contracts, y-Combinator backed.)
+- Tron (Scam-Likely-a)
+- Wings
+- Swarm
+- BlackCoin
+- iEx
+- Mysterium<sup>nm</sup><sup> </<sup><sup>erc20</sup>
+- Lunyr
+- Icon
+- Iconomi
