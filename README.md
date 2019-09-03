@@ -55,6 +55,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - [Dent](https://www.dentwireless.com/)<sup>x</sup><sup> </sup><sup>nm</sup>
 - [GET](https://get-protocol.io/)<sup>nm><sup> </sup><sup>erc20</sup> 
 - Credo<sup>x</sup><sup> </sup><sup>nm</sup> (BitBounce Coin)
+- BitTorrent (Earn for seeding. Pay for speeding.)
 
 ### Governance Coins
 
@@ -76,6 +77,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 ### NoBlockchains/DAGs etc
 
 - Iota
+- [Cosmos](https://cosmos.network/)
 - Lisk/Ark
 - Grin
 
@@ -133,7 +135,6 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
 ### Unclassified Coins
 
-- [Cosmos](https://cosmos.network/)
 - [Nimiq](https://nimiq.com/whitepaper) (Browser Coin)
 - [Numerai](https://numer.ai/)
 - [Ampleforth](https://www.ampleforth.org/) [[t]](https://t.me/Ampleforth) (Stable coin with price target correction)
@@ -145,7 +146,6 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Bancor (Crypto Creditcard)
 - Request Token
 - Decred / 0x
-- BitTorrent
 - 1st (Gaming)
 - [Enjin](https://enjincoin.io/) (Gaming)
 - Groestlcoin
