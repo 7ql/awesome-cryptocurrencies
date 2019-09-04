@@ -94,15 +94,12 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Ardor [[w]](https://ardorplatform.org/) (PoS, Fork of NXT, Java smart contracts)
 - Cardano<sup>nw</sup>
 
-### DAGs
+### DAGs and Interoperability
 
-- Iota
-- Nano
-- Fantom
-- Perlin (Avalanche consensus, WASM based contracts)
-
-### Blockchain Interop Projects
-
+- Iota<sup>DAG</sup>
+- Nano<sup>DAG</sup>
+- Fantom<sup>DAG</sup>
+- Perlin<sup>DAG</sup> (Avalanche consensus, WASM based contracts)
 - Lisk/Ark
 - [Cosmos](https://cosmos.network/)
 - Ren
