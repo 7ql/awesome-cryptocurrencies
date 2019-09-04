@@ -18,6 +18,9 @@ A loose collection of cryptocurrency ressources
   - [Dividend Tokens](#dividend-tokens)
   - [Joke Currencies](#joke-currencies)
   - [Unclassified Coins](#unclassified-coins)
+- [Resources](#resources)
+  - [Hashwar](#hashwars)
+  - [dapps](#dapps)
 
 ## Asset Classes
 Always ask first: does a use-case justify the deployment of a dedicated blockchain.
@@ -201,3 +204,12 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Lunyr
 - Icon
 - Iconomi
+
+## Resources
+
+### Hashwar
+- [fork.lol](https://fork.lol/)
+- [coin.dance](https://coin.dance/)
+
+### Dapps
+- [Dapps Radar / Rankings](https://dappradar.com/rankings/)
