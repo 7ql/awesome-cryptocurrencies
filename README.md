@@ -31,13 +31,11 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
 - Bitcoin Cash [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
 - Dash [[src]](https://github.com/dashpay) [[r]](https://old.reddit.com/r/dashpay/) [[t]](https://t.me/dash_chat) [[f]](https://dash.org/forum)
-- ~~Litecoin~~(not actively developed anymore)
 - [OmiseGo](https://omisego.co/)<sup>nm</sup> [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go)
 - [Dai](https://reddit.com/r/MakerDAO)<sup>nm</sup> [[src]](https://github.com/makerdao) [[r]](https://reddit.com/r/MakerDAO) 
 
 ### Resistant Coins
 
-- ~~Litecoin~~(not resistant anymore)
 - [VertCoin](http://vertcoin.org/)
 - Monero
 - [GridCoin](https://bitcointalk.org/index.php?topic=324118.0)
@@ -172,6 +170,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Stellar (Majority of tokens owned by creators.) <- Src?
 - Tether (Scam-Likely-a)
 - Steem<sup>x</sup>
+- Litecoin (neither resistant nor actively developed anymore)
 
 ### Unclassified Coins
 
