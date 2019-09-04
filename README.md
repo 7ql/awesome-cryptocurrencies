@@ -9,8 +9,7 @@ A loose collection of cryptocurrency ressources
   - [Contract Coins](#contract-coins)
   - [DAGs](#dags)
   - [Blockchain Interop Projects](#blockchain-interop-projects)
-  - [Coins with innovative initial coin distribution](#coins-with-innovative-initial-coin-distribution)
-  - [Coins with innovative consensuses](#coins-with-innovative-consensuses)
+  - [Consensus Coins](#consensus-coins)
   - [Privacy Coins](#privacy-coins)
   - [Mimblewimble](#mimblewimble)
   - [Incubator Coins](#incubator-coins)
@@ -109,7 +108,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Polkadot
 - Tendermint
 
-### Coins with innovative initial coin distribution
+### Consensus Coins
 
 - Peercoin (Proof of Stake)
 - Lisk (Delegated Proof of Stake)
@@ -118,9 +117,6 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - VeriBlock (Proof of Proof)
 - Stellar ([Federated Byzantine Agreement](http://www.scs.stanford.edu/~dm/blog/simplified-scp.html))
 - Zcoin
-
-### Coins with innovative consensuses
-
 - G1 (Web of trust)
 - PI (Proof of User/Weak web of trust)
 - Perlin (Avalanche DAG)
