@@ -7,12 +7,10 @@ A loose collection of cryptocurrency ressources
   - [Product Coins](#product-coins)
   - [Governance Coins](#governance-coins)
   - [Contract Coins](#contract-coins)
-  - [DAGs](#dags)
-  - [Blockchain Interop Projects](#blockchain-interop-projects)
+  - [DAGs and Interoperability](#dags-and-interoperability)
   - [Coins with innovative initial coin distribution](#coins-with-innovative-initial-coin-distribution)
   - [Coins with innovative consensuses](#coins-with-innovative-consensuses)
   - [Privacy Coins](#privacy-coins)
-  - [Mimblewimble](#mimblewimble)
   - [Incubator Coins](#incubator-coins)
   - [Oracle Coins](#oracle-coins)
   - [Dividend Tokens](#dividend-tokens)
@@ -105,6 +103,8 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Ren
 - Polkadot
 - Tendermint
+- Grin
+- Beam
 
 ### Coins with innovative initial coin distribution
 
@@ -134,11 +134,6 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Zcoin
 - Particle [[src]](https://github.com/particl) [[r]](https://reddit.com/r/Particl)
 - Verge [[src]](https://github.com/vergecurrency) [[r]](https://reddit.com/r/vergecurrency)
-
-#### Mimblewimble
-
-- Grin
-- Beam
 
 ### Incubator Coins
 
