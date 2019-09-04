@@ -1,14 +1,32 @@
 # Awesome Cryptocurrencies
 A loose collection of cryptocurrency ressources
 
-## Asset classes
+- [Asset Classes](#asset-classes)
+  - [Cash Coins](#cash-coins)
+  - [Resistant Coins](#resistant-coins)
+  - [Product Coins](#product-coins)
+  - [Governance Coins](#governance-coins)
+  - [Contract Coins](#contract-coins)
+  - [DAGs](#dags)
+  - [Blockchain Interop Projects](#blockchain-interop-projects)
+  - [Coins with innovative initial coin distribution](#coins-with-innovative-initial-coin-distribution)
+  - [Coins with innovative consensuses](#coins-with-innovative-consensuses)
+  - [Privacy Coins](#privacy-coins)
+  - [Mimblewimble](#mimblewimble)
+  - [Incubator Coins](#incubator-coins)
+  - [Oracle Coins](#oracle-coins)
+  - [Dividend Tokens](#dividend-tokens)
+  - [Joke Currencies](#joke-currencies)
+  - [Unclassified Coins](#unclassified-coins)
+
+## Asset Classes
 Always ask first: does a use-case justify the deployment of a dedicated blockchain.
 
 - <sup>x</sup>) Wouldn't require it's own chain/token.
 - <sup>nm</sup>) Not mineable.
 - <sup>nw</sup>) No working product.
 
-### Cash Coins / Cryptocurrencies
+### Cash Coins
 Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
 - Bitcoin Cash [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
@@ -17,7 +35,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - [OmiseGo](https://omisego.co/)<sup>nm</sup> [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go)
 - [Dai](https://reddit.com/r/MakerDAO)<sup>nm</sup> [[src]](https://github.com/makerdao) [[r]](https://reddit.com/r/MakerDAO) 
 
-### GPU/ASIC-Resistant Coins
+### Resistant Coins
 
 - ~~Litecoin~~(not resistant anymore)
 - [VertCoin](http://vertcoin.org/)
@@ -41,7 +59,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - [EliCoin](https://www.elicoin.net/)
 - [Myriad](http://myriadcoin.org/) (0.4 Asic, 0.4 GPU, 0.2 CPU) 
 
-### Product Coins / Utility Tokens
+### Product Coins
 
 - Namecoin (dDNS)
 - Basic Attention Token<sup>x</sup><sup> </sup><sup>nm</sup>
@@ -62,7 +80,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Dash (Share of miner reward governs development)
 - Maker (Holders govern issuance model by voting)
 
-### Contract Coins / Platform Tokens
+### Contract Coins
 
 - Ethereum
 - Ethereum Classic
@@ -140,7 +158,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Drop (Cryptophyl.com Token) [[src]](https://cryptophyl.com/airdrops/drop-1)
 - Nexo (30% of profits to token holders with KYC)
 
-### Joke currencies <sup>x</sup>
+### Joke Currencies
 
 - Doge ("Very competition. Much fast. So much wow.")
 - Bomb<sup>!x</sup> ("Hyperinflating experiment.")
