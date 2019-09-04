@@ -97,12 +97,12 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Iota
 - Nano
 - Fantom
-- [Cosmos](https://cosmos.network/)
 - Perlin (Avalanche consensus, WASM based contracts)
 
 ### Blockchain Interop Projects
 
 - Lisk/Ark
+- [Cosmos](https://cosmos.network/)
 - Ren
 - Polkadot
 - Tendermint
