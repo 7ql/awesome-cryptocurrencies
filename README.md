@@ -88,6 +88,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Binance
 - Tezos
 - Waves
+- Ardor [[w]](https://ardorplatform.org/) (PoS, Fork of NXT, Java smart contracts)
 - Cardano<sup>nw</sup>
 
 ### DAGs
@@ -179,6 +180,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - [Ampleforth](https://www.ampleforth.org/) [[t]](https://t.me/Ampleforth) (Stable coin with price target correction)
 - [Kyber Network](https://kyber.network/) (integrate decentralised token swaps into apps)
 - [Vechain](https://www.vechain.org/)
+- Elastos [[w]](https://www.elastos.org/zh/) [[p]](https://www.elastos.org/downloads/elastos_whitepaper_en.pdf)
 - [Gnosis](https://gnosis.io/)
 - GigaByte
 - [Pluton](https://plutus.it/)
