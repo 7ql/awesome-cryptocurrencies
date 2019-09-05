@@ -15,8 +15,8 @@ A loose collection of cryptocurrency ressources
   - [Incubator Coins](#incubator-coins)
   - [Oracle Coins](#oracle-coins)
   - [Dividend Tokens](#dividend-tokens)
-  - [Joke Currencies](#joke-currencies)
-  - [Unclassified Coins](#unclassified-coins)
+  - [Joke Currencies](c/joke/README.md#joke-currencies)
+  - [Unclassified Coins](c/unclassified/README.md#unclassified-coins)
 - [Resources](#resources)
   - [Hashwar](#hashwars)
   - [dapps](#dapps)
@@ -25,16 +25,18 @@ A loose collection of cryptocurrency ressources
 Always ask first: does a use-case justify the deployment of a dedicated blockchain.
 
 - <sup>x</sup>) Wouldn't require it's own chain/token.
-- <sup>nm</sup>) Not mineable.
+- <sup>nm</sup>) Not mineable chain.
 - <sup>nw</sup>) No working product.
+- <sup>erc20</sup>) Ethereum Token
+- <sup>slp</sup>) Bitcoin Cash Token
+- <sup>bep2</sup>) Binance Token
 
 ### Cash Coins
 Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
 - Bitcoin Cash [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
 - Dash [[src]](https://github.com/dashpay) [[r]](https://old.reddit.com/r/dashpay/) [[t]](https://t.me/dash_chat) [[f]](https://dash.org/forum)
-- [OmiseGo](https://omisego.co/)<sup>nm</sup> [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go)
-- [Dai](https://reddit.com/r/MakerDAO)<sup>nm</sup> [[src]](https://github.com/makerdao) [[r]](https://reddit.com/r/MakerDAO) 
+- [OmiseGo](https://omisego.co/)<sup>erc20</sup> [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go)
 
 ### Resistant Coins
 
@@ -57,21 +59,21 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - [Amity](https://bitcointalk.org/index.php?topic=5149680.0)
 - [YenTen](http://yentencoin.info/)
 - [EliCoin](https://www.elicoin.net/)
-- [Myriad](http://myriadcoin.org/) (0.4 Asic, 0.4 GPU, 0.2 CPU) 
+- [Myriad](http://myriadcoin.org/) (0.4 Asic, 0.4 GPU, 0.2 CPU)
 
 ### Product Coins
 
 - Namecoin (dDNS)
-- Basic Attention Token<sup>x</sup><sup> </sup><sup>nm</sup>
+- Basic Attention Token<sup>x</sup><sup> </sup><sup>erc20</sup>
 - Golem (SuperComputer)
 - Sonm (SuperComputer)
 - SiaCoin (Storage)
 - Storj (Storage)
 - Status<sup>x</sup><sup> </sup><sup>nm</sup> (InstantMessenger)
 - Factom<sup>x</sup> (Store data onchain.)
-- [Power](https://powerledger.io/)<sup>x</sup><sup> </sup><sup>nm</sup>
-- [Dent](https://www.dentwireless.com/)<sup>x</sup><sup> </sup><sup>nm</sup>
-- [GET](https://get-protocol.io/)<sup>nm><sup> </sup><sup>erc20</sup> 
+- [Power](https://powerledger.io/)<sup>x</sup><sup> </sup><sup>erc20</sup>
+- [Dent](https://www.dentwireless.com/)<sup>x</sup><sup> </sup><sup>erc20</sup>
+- [GET](https://get-protocol.io/)<sup>nm></sup> </sup><sup>erc20</sup>
 - Credo<sup>x</sup><sup> </sup><sup>nm</sup> (BitBounce Coin)
 - BitTorrent (Earn for seeding. Pay for speeding.)
 
@@ -141,9 +143,9 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
 ### Incubator Coins
 
-- XIO
+- XIO<sup>bep2</sup>
 - Binance Lab (Binance Chain)
-- CET
+- CET<sup>slp</sup>
 
 ### Oracle Coins
 
@@ -151,55 +153,10 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
 ### Dividend Tokens
 
-- XIO 
-- CGT (CashGames Test Token) [[src]](https://explorer.bitcoin.com/bch/token/1c9229fbca8e9646589787d76f4110372608231522f6cffab45dd7ac3cb43556)
-- Drop (Cryptophyl.com Token) [[src]](https://cryptophyl.com/airdrops/drop-1)
+- XIO<sup>bep2</sup>
+- CGT<sup>slp</sup> (CashGames Test Token) [[src]](https://explorer.bitcoin.com/bch/token/1c9229fbca8e9646589787d76f4110372608231522f6cffab45dd7ac3cb43556)
+- Drop<sup>slp</sup> (Cryptophyl.com Token) [[src]](https://cryptophyl.com/airdrops/drop-1)
 - Nexo (30% of profits to token holders with KYC)
-
-### Joke Currencies
-
-- Doge ("Very competition. Much fast. So much wow.")
-- Bomb<sup>!x</sup> ("Hyperinflating experiment.")
-- Banano ("4th generation fungible and edible cryptocurrency.")
-- Spice ("The spice must flow.")
-- Bitcoin ("Store of Value.")
-- QRL ("We need quantum resistance.")
-- SkyCoin (Scam)
-- TenX (Scam)
-- Ripple (Majority of tokens owned by creators.)
-- Stellar (Majority of tokens owned by creators.) <- Src?
-- Tether (Scam-Likely-a)
-- Steem<sup>x</sup>
-- Litecoin (neither resistant nor actively developed anymore)
-
-### Unclassified Coins
-
-- [Nimiq](https://nimiq.com/whitepaper) (Browser first blockchain. Easy onboarding)
-- [Numerai](https://numer.ai/)
-- [Ampleforth](https://www.ampleforth.org/) [[t]](https://t.me/Ampleforth) (Stable coin with price target correction)
-- [Kyber Network](https://kyber.network/) (integrate decentralised token swaps into apps)
-- [Vechain](https://www.vechain.org/)
-- Elastos [[w]](https://www.elastos.org/zh/) [[p]](https://www.elastos.org/downloads/elastos_whitepaper_en.pdf)
-- [Gnosis](https://gnosis.io/)
-- GigaByte
-- [Pluton](https://plutus.it/)
-- Bancor (Crypto Creditcard)
-- Request Token
-- Decred / 0x
-- 1st (Gaming)
-- [Enjin](https://enjincoin.io/) (Gaming)
-- Groestlcoin
-- Holo<sup>nw</sup>
-- Quantstamp<sup>nw</sup> (Auditsystem for smart contracts, y-Combinator backed.)
-- Tron (Scam-Likely-a)
-- Wings
-- Swarm
-- BlackCoin
-- iEx
-- Mysterium<sup>nm</sup><sup> </<sup><sup>erc20</sup>
-- Lunyr
-- Icon
-- Iconomi
 
 ## Resources
 
