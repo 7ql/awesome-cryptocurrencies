@@ -36,7 +36,6 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 
 - Bitcoin Cash [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
 - Dash [[src]](https://github.com/dashpay) [[r]](https://old.reddit.com/r/dashpay/) [[t]](https://t.me/dash_chat) [[f]](https://dash.org/forum)
-- [OmiseGo](https://omisego.co/)<sup>erc20</sup> [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go)
 
 ### Resistant Coins
 
@@ -94,6 +93,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency
 - Waves
 - Ardor [[w]](https://ardorplatform.org/) (PoS, Fork of NXT, Java smart contracts)
 - Cardano<sup>nw</sup>
+- [OmiseGo](https://omisego.co/)<sup>erc20</sup> [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go) (Exchange gateway, backed by Omise Co. Ltd., 20M funding, integrating fractured S-E-Asia finance market)
 
 ### DAGs
 
