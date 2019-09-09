@@ -27,7 +27,7 @@ Always ask first: does a use-case justify the deployment of a dedicated blockcha
 ### Cash Coins
 Low-fee, quick-confirm, fixed-cap, well-scaling currency.
 
-- Bitcoin Cash [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
+- Bitcoin Cash [[·]](c/bch/README.md) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
 - Dash [[src]](https://github.com/dashpay) [[r]](https://old.reddit.com/r/dashpay/) [[t]](https://t.me/dash_chat) [[f]](https://dash.org/forum)
 
 ### Resistant Coins
@@ -65,11 +65,11 @@ Currencies, which mainly focus on a non-cash exchange.
 - Storj (Storage)
 - Status<sup>x</sup><sup> </sup><sup>nm</sup> (InstantMessenger)
 - Factom<sup>x</sup> (Store data onchain.)
-- [Power](https://powerledger.io/)<sup>x</sup><sup> </sup><sup>erc20</sup>
-- [Dent](https://www.dentwireless.com/)<sup>x</sup><sup> </sup><sup>erc20</sup>
-- [GET](https://get-protocol.io/)<sup>nm></sup><sup> </sup><sup>erc20</sup>
-- Credo<sup>x</sup><sup> </sup><sup>nm</sup> (BitBounce Coin)
+- Power<sup>x</sup><sup> </sup><sup>erc20</sup> [[w]](https://powerledger.io/)
+- Dent<sup>x</sup><sup> </sup><sup>erc20</sup> [[w]](https://www.dentwireless.com/)
+- GET<sup>nm</sup><sup> </sup><sup>erc20</sup> [[w]](https://get-protocol.io/)
 - BitTorrent (Earn for seeding. Pay for speeding.)
+- Credo<sup>x</sup><sup> </sup><sup>nm</sup> (BitBounce Coin)
 
 ### Governance Coins
 Governance-focused currencies.
@@ -162,6 +162,7 @@ Currencies focusing on privacy.
 
 ### Dapps
 - [Dapps Radar / Rankings](https://dappradar.com/rankings/)
+- https://www.stateofthedapps.com/
 
 ## Legend
 
