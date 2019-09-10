@@ -13,7 +13,6 @@ A loose collection of cryptocurrency ressources
   - [Dividend Tokens](../../README.md#dividend-tokens)
   - [Blockchain Interop Projects](../../README.md#blockchain-interop-projects)
   - [DAGs](../../README.md#dags)
-  - [Mimblewimble](../../README.md#mimblewimble)
   - [Joke Currencies](#joke-currencies)
   - [Unclassified Coins](../unclassified/README.md#unclassified-coins)
 - [Resources](../../README.md#resources)
@@ -37,3 +36,7 @@ A loose collection of cryptocurrency ressources
 - Tether (Scam-Likely-a)
 - Steem<sup>x</sup>
 - Litecoin (neither resistant nor actively developed anymore)
+
+#### Product coins
+
+- Credo<sup>x</sup><sup> </sup><sup>nm</sup> (nonsensical to use a dedicated chain, service doesn't any other payment option, Credo only traded on a private exchange, no volume on ddex, huge entrance blocker)

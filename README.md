@@ -68,7 +68,6 @@ Currencies, which mainly focus on a non-cash exchange.
 - Dent<sup>x</sup><sup> </sup><sup>erc20</sup> [[w]](https://www.dentwireless.com/)
 - GET<sup>nm</sup><sup> </sup><sup>erc20</sup> [[w]](https://get-protocol.io/)
 - BitTorrent (Earn for seeding. Pay for speeding.)
-- Credo<sup>x</sup><sup> </sup><sup>nm</sup> (BitBounce Coin)
 
 ### Governance Coins
 Governance-focused currencies.
