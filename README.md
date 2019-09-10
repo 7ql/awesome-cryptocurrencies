@@ -13,7 +13,6 @@ A loose collection of cryptocurrency ressources
   - [Dividend Tokens](#dividend-tokens)
   - [Blockchain Interop Projects](#blockchain-interop-projects)
   - [DAGs](#dags)
-  - [Mimblewimble](#mimblewimble)
   - [Joke Currencies](c/joke/README.md#joke-currencies)
   - [Unclassified Coins](c/unclassified/README.md#unclassified-coins)
 - [Resources](#resources)
