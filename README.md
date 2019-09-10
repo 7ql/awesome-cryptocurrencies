@@ -119,6 +119,7 @@ Currencies focusing on privacy.
 - Zcoin
 - Particle [[src]](https://github.com/particl) [[r]](https://reddit.com/r/Particl)
 - Verge [[src]](https://github.com/vergecurrency) [[r]](https://reddit.com/r/vergecurrency)
+- Beam [[src]](https://github.com/BeamMW) [[w]](https://beam.mw)
 
 ### Oracle Coins
 
@@ -148,11 +149,6 @@ Currencies focusing on privacy.
 - Nano
 - Fantom
 - Perlin (Avalanche consensus, WASM based contracts)
-
-### Mimblewimble
-
-- Grin
-- Beam
 
 ## Resources
 
