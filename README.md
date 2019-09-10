@@ -109,7 +109,9 @@ Currencies established on novel consensus mechanisms.
 - Burst (Proof of Capacity)
 
 ### Privacy Coins
-Currencies focusing on privacy.
+Currencies focusing on privacy. An interesting
+[overview](https://www.cryptofreaknetwork.com/how-zcoins-privacy-technology-compares-to-the-competition/)
+of the more popular implementations, compiled by a zcoin developer.
 
 - Monero
 - Zcash
