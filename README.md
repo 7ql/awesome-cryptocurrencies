@@ -121,6 +121,7 @@ of the more popular implementations, compiled by a zcoin developer.
 - Zcoin
 - Particle [[src]](https://github.com/particl) [[r]](https://reddit.com/r/Particl)
 - Verge [[src]](https://github.com/vergecurrency) [[r]](https://reddit.com/r/vergecurrency)
+- Beam [[src]](https://github.com/BeamMW) [[w]](https://beam.mw)
 
 ### Oracle Coins
 
@@ -150,11 +151,6 @@ of the more popular implementations, compiled by a zcoin developer.
 - Nano
 - Fantom
 - Perlin (Avalanche consensus, WASM based contracts)
-
-### Mimblewimble
-
-- Grin
-- Beam
 
 ## Resources
 
