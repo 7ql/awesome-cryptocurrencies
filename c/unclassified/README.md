@@ -50,3 +50,4 @@ A loose collection of cryptocurrency ressources
 - Icon
 - Iconomi
 - Avalabs.network [[w]](https://avalabs.network) [[a]](https://www.bloomberg.com/news/articles/2019-05-16/cornell-university-s-crypto-professor-to-launch-his-own-coin) (Testnet only)
+- TeraCoin [[a]](https://bitcointalk.org/index.php?topic=4573801.0) (Node.Js, 1s Blocktime, Platform)

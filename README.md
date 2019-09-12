@@ -30,28 +30,23 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency.
 - Dash [[src]](https://github.com/dashpay) [[r]](https://old.reddit.com/r/dashpay/) [[t]](https://t.me/dash_chat) [[f]](https://dash.org/forum)
 
 ### Resistant Coins
-GPU-, ASIC-, and/or Pool-resistant currency.
+GPU-, ASIC-, and/or Pool-resistant currency; (CPU) mainly for CPU mining, (GPU) mainly for GPU mining. Dominant GPU-mining coins: XMR, VTC. **Dominant CPU-mining coins: \*???\***
 
-- VertCoin [[w]](http://vertcoin.org/)
+- VertCoin [[w]](http://vertcoin.org/) (GPU)
 - Monero [[w]](http://getmonero.org/)
 - GridCoin [[a]](https://bitcointalk.org/index.php?topic=324118.0)
-- RieCoin [[a]](https://bitcointalk.org/index.php?topic=446703.6080)
-- Solo [[a]](https://bitcointalk.org/index.php?topic=5120652) [[r]](https://www.reddit.com/r/soloproject/) (even claims pool-resistancy)
-- Unprll [[a]](https://bitcointalk.org/index.php?topic=5077140.0)
-- Versus [[a]](https://bitcointalk.org/index.php?topic=4070404.0)     
-- ZillionCoin [[a]](https://bitcointalk.org/index.php?topic=1818945.0)
-- TurtleCoin [[a]](https://bitcointalk.org/index.php?topic=2872287.0)
-- ZettelKasten [[a]](https://bitcointalk.org/index.php?topic=3207356.0)
-- RavenCoin [[a]](https://bitcointalk.org/index.php?topic=3238497)
-- Nerva [[a]](https://bitcointalk.org/index.php?topic=3464367.0)
-- SnowBlossom [[a]](https://bitcointalk.org/index.php?topic=4422979)
-- TeraCoin [[a]](https://bitcointalk.org/index.php?topic=4573801.0)
-- BlurNetwork [[a]](https://bitcointalk.org/index.php?topic=4577361)
-- Lithe [[a]](https://bitcointalk.org/index.php?topic=5097562.0)
-- Amity [[a]](https://bitcointalk.org/index.php?topic=5149680.0)
-- YenTen [[w]](http://yentencoin.info/)
-- EliCoin [[w]](https://www.elicoin.net/)
+- Nerva [[a]](https://bitcointalk.org/index.php?topic=3464367.0) (CPU)
+- Solo [[a]](https://bitcointalk.org/index.php?topic=5120652) [[r]](https://www.reddit.com/r/soloproject/) (CPU, pool-resistant)
+- Unprll [[a]](https://bitcointalk.org/index.php?topic=5077140.0) (CPU, sequential, unparallel hashing therefore suited for)
+- Versus [[a]](https://bitcointalk.org/index.php?topic=4070404.0) (MSN .Net Founder, 50:50 PoW,PoS)
+- ZillionCoin [[a]](https://bitcointalk.org/index.php?topic=1818945.0) (Asic resistant)
+- YenTen [[w]](http://yentencoin.info/) (CPU)
+- EliCoin [[w]](https://www.elicoin.net/) (CPU)
+- PascalCoin (CPU)
 - Myriad [[w]](http://myriadcoin.org/) (0.4 Asic, 0.4 GPU, 0.2 CPU)
+- BlurNetwork [[a]](https://bitcointalk.org/index.php?topic=4577361) (GPU, why not VTC?)
+- RavenCoin [[a]](https://bitcointalk.org/index.php?topic=3238497) (GPU, why not VTC?, huge supply???)
+- SnowBlossom [[a]](https://bitcointalk.org/index.php?topic=4422979) (Asic resistant, two-man show?)
 
 ### Product Coins
 Currencies, which mainly focus on a non-cash exchange.
