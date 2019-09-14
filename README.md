@@ -132,10 +132,9 @@ of the more popular implementations, compiled by a zcoin developer.
 ### Blockchain Interop Projects
 
 - Lisk/Ark
-- [Cosmos](https://cosmos.network/)
+- [Cosmos](https://cosmos.network/) (PoS, [Tendermint](https://tendermint.com/docs/introduction/what-is-tendermint.html#consensus-overview) w/ 100 validators, "oracle for foreign chain's state")
 - Ren
 - Polkadot
-- Tendermint
 
 ### DAGs
 [Directed-acyclic-graph networks](https://en.wikipedia.org/wiki/Directed_acyclic_graph).
