@@ -33,7 +33,6 @@ A loose collection of cryptocurrency ressources
 - [Pluton](https://plutus.it/)
 - Bancor (Crypto Creditcard)
 - Request Token
-- Decred / 0x
 - 1st (Gaming)
 - [Enjin](https://enjincoin.io/) (Gaming, Non-fungible tokens: in-game items, Samsung partnership.)
 - Groestlcoin

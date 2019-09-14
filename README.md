@@ -68,6 +68,7 @@ Governance-focused currencies.
 
 - Dash (Share of miner reward governs development)
 - Maker (Holders govern issuance model by voting)
+- Decred (PoS+PoW, stakeholders [vote on proposals](https://voting.decred.org/), former btc devs at [company 0](https://www.companyzero.com/))
 
 ### Contract Coins
 Smart-contract networks.
