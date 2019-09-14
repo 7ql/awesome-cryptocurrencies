@@ -9,7 +9,6 @@ A loose collection of cryptocurrency ressources
   - [Contract Coins](../../README.md#contract-coins)
   - [Consensus Coins](../../README.md#consensus-coins)
   - [Privacy Coins](../../README.md#privacy-coins)
-  - [Oracle Coins](../../README.md#oracle-coins)
   - [Dividend Tokens](../../README.md#dividend-tokens)
   - [Blockchain Interop Projects](../../README.md#blockchain-interop-projects)
   - [DAGs](../../README.md#dags)

@@ -9,7 +9,6 @@ A loose collection of cryptocurrency ressources
   - [Contract Coins](#contract-coins)
   - [Consensus Coins](#consensus-coins)
   - [Privacy Coins](#privacy-coins)
-  - [Oracle Coins](#oracle-coins)
   - [Dividend Tokens](#dividend-tokens)
   - [Blockchain Interop Projects](#blockchain-interop-projects)
   - [DAGs](#dags)
@@ -116,10 +115,6 @@ of the more popular implementations, compiled by a zcoin developer.
 - Verge [[src]](https://github.com/vergecurrency) [[r]](https://reddit.com/r/vergecurrency)
 - Beam [[src]](https://github.com/BeamMW) [[w]](https://beam.mw)
 
-### Oracle Coins
-
-- ChainLink
-
 ### Dividend Tokens
 
 - XIO<sup>bep2</sup>
@@ -133,6 +128,7 @@ of the more popular implementations, compiled by a zcoin developer.
 
 - Lisk/Ark
 - [Cosmos](https://cosmos.network/) (PoS, [Tendermint](https://tendermint.com/docs/introduction/what-is-tendermint.html#consensus-overview) w/ 100 validators, "oracle for foreign chain's state")
+- ChainLink (Decentralised oracle provider for other chains.)
 - Ren
 - Polkadot
 
