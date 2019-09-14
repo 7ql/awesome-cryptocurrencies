@@ -35,7 +35,7 @@ A loose collection of cryptocurrency ressources
 - Request Token
 - Decred / 0x
 - 1st (Gaming)
-- [Enjin](https://enjincoin.io/) (Gaming)
+- [Enjin](https://enjincoin.io/) (Gaming, Non-fungible tokens: in-game items, Samsung partnership.)
 - Groestlcoin
 - Holo<sup>nw</sup>
 - Quantstamp<sup>nw</sup> (Auditsystem for smart contracts, y-Combinator backed.)
