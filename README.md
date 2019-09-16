@@ -23,10 +23,13 @@ A loose collection of cryptocurrency ressources
 Always ask first: does a use-case justify the deployment of a dedicated blockchain.
 
 ### Cash Coins
-Low-fee, quick-confirm, fixed-cap, well-scaling currency.
+Low-fee, quick-confirm, fixed-cap, well-scaling currency. Sorted by value sent in [M$/24h] on [2019/09/15](https://bitinfocharts.com/comparison/sentinusd-btc-bch-dash-xmr-zec-sma7.html#log&6m):
 
-- Bitcoin Cash [[·]](c/bch/README.md) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
-- Dash [[src]](https://github.com/dashpay) [[r]](https://old.reddit.com/r/dashpay/) [[t]](https://t.me/dash_chat) [[f]](https://dash.org/forum)
+- (484) Bitcoin Cash [[·]](c/bch/README.md) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) [[r]](https://old.reddit.com/r/btc) [[f]](https://bitco.in/forum/) [[f]](https://forum.bitcoin.com/)
+- ( 68) Zcash [[w]](https://z.cash/) [[src]](https://github.com/zcash/zcash)
+- ( 33) Dash [[src]](https://github.com/dashpay) [[r]](https://old.reddit.com/r/dashpay/) [[t]](https://t.me/dash_chat) [[f]](https://dash.org/forum)
+- ( ??) XMR [[w]](http://getmonero.org/)
+- ( ??) Nano [[w]](http://nano.org/) [[src]](https://github.com/nanocurrency)
 
 ### Resistant Coins
 GPU-, ASIC-, and/or Pool-resistant currency; (CPU) mainly for CPU mining, (GPU) mainly for GPU mining. Dominant GPU-mining coins: XMR, VTC. **Dominant CPU-mining coins: \*???\***
