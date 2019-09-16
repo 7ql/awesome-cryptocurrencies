@@ -100,6 +100,7 @@ Currencies established on novel consensus mechanisms.
 - Perlin (Avalanche DAG)
 - IOST (Proof of Believability)
 - Burst (Proof of Capacity)
+- Spock (Proof of Capacity) [[w]](https://www.spockchain.org/) [[p]](https://www.spockchain.org/file/SpockChain%20%20V1.0%20EN.pdf)
 
 ### Privacy Coins
 Currencies focusing on privacy. An interesting
@@ -165,3 +166,4 @@ of the more popular implementations, compiled by a zcoin developer.
 - r) reddit forum
 - f) forum
 - t) telegram channel
+- p) paper
