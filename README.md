@@ -53,7 +53,6 @@ Currencies, which mainly focus on a non-cash exchange.
 - Namecoin (dDNS)
 - Basic Attention Token<sup>x</sup><sup> </sup><sup>erc20</sup>
 - Golem (SuperComputer)
-- Sonm (SuperComputer)
 - SiaCoin (Storage)
 - Storj (Storage)
 - Status<sup>x</sup><sup> </sup><sup>nm</sup> (InstantMessenger)
