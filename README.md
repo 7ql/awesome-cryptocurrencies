@@ -88,7 +88,9 @@ Smart-contract networks.
 - [OmiseGo](https://omisego.co/)<sup>erc20</sup> [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go) (Exchange gateway, backed by Omise Co. Ltd., 20M funding, integrating fractured S-E-Asia finance market)
 
 ### Consensus Coins
-Currencies established on novel consensus mechanisms.
+Currencies established on novel consensus mechanisms. Overviews:
+[PoW](https://whattomine.com/),
+[PoS](https://changelly.com/blog/top-cryptocurrencies-for-passive-income/)
 
 - Peercoin (Proof of Stake)
 - Lisk (Delegated Proof of Stake)
