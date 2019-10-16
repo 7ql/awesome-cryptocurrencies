@@ -15,8 +15,9 @@ A loose collection of cryptocurrency ressources
   - [Joke Currencies](c/joke/README.md#joke-currencies)
   - [Unclassified Coins](c/unclassified/README.md#unclassified-coins)
 - [Resources](#resources)
-  - [Hashwar](#hashwars)
+  - [Analytics](#analytics)
   - [dapps](#dapps)
+  - [Hashwar](#hashwars)
 - [Legend](#legend)
 
 ## Asset Classes
@@ -148,13 +149,17 @@ of the more popular implementations, compiled by a zcoin developer.
 
 ## Resources
 
-### Hashwar
-- [fork.lol](https://fork.lol/)
-- [coin.dance](https://coin.dance/)
+### Analytics
+
+- [blocktivity.info](https://blocktivity.info/)
 
 ### Dapps
 - [Dapps Radar / Rankings](https://dappradar.com/rankings/)
 - https://www.stateofthedapps.com/
+
+### Hashwar
+- [fork.lol](https://fork.lol/)
+- [coin.dance](https://coin.dance/)
 
 ## Legend
 

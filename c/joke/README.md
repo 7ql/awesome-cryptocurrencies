@@ -14,9 +14,10 @@ A loose collection of cryptocurrency ressources
   - [DAGs](../../README.md#dags)
   - [Joke Currencies](#joke-currencies)
   - [Unclassified Coins](../unclassified/README.md#unclassified-coins)
-- [Resources](../../README.md#resources)
-  - [Hashwar](../../README.md#hashwars)
-  - [dapps](../../README.md#dapps)
+- [Resources](#resources)
+  - [Analytics](#analytics)
+  - [dapps](#dapps)
+  - [Hashwar](#hashwars)
 
 ## Asset Classes
 
