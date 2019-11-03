@@ -18,6 +18,7 @@ A loose collection of cryptocurrency ressources
   - [Analytics](#analytics)
   - [dapps](#dapps)
   - [Hashwar](#hashwars)
+  - [Tools](#tools)
 - [Legend](#legend)
 
 ## Asset Classes
@@ -160,6 +161,9 @@ of the more popular implementations, compiled by a zcoin developer.
 ### Hashwar
 - [fork.lol](https://fork.lol/)
 - [coin.dance](https://coin.dance/)
+
+### Tools
+- [btcrecover](https://github.com/gurnec/btcrecover)
 
 ## Legend
 
