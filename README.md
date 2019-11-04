@@ -87,7 +87,7 @@ Smart-contract networks.
 - Waves
 - Ardor [[w]](https://ardorplatform.org/) (PoS, Fork of NXT, Java smart contracts)
 - Cardano<sup>nw</sup>
-- [OmiseGo](https://omisego.co/)<sup>erc20</sup> [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go) (Exchange gateway, backed by Omise Co. Ltd., 20M funding, integrating fractured S-E-Asia finance market)
+- [OmiseGo](https://omisego.co/)<sup>erc20</sup> [[·]](c/omg/README.md) [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go) (Exchange gateway, backed by Omise Co. Ltd., 20M funding, integrating fractured S-E-Asia finance market)
 
 ### Consensus Coins
 Currencies established on novel consensus mechanisms. Overviews:
