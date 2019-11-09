@@ -31,7 +31,7 @@ Low-fee, quick-confirm, fixed-cap, well-scaling currency. Sorted by value sent i
 - ( 68) Zcash [[w]](https://z.cash/) [[src]](https://github.com/zcash/zcash)
 - ( 33) Dash [[src]](https://github.com/dashpay) [[r]](https://old.reddit.com/r/dashpay/) [[t]](https://t.me/dash_chat) [[f]](https://dash.org/forum)
 - ( ??) XMR [[w]](http://getmonero.org/)
-- ( ??) Nano [[w]](http://nano.org/) [[src]](https://github.com/nanocurrency)
+- ( ??) Nano [[·]](c/nano/README.md) [[w]](http://nano.org/) [[src]](https://github.com/nanocurrency)
 
 ### Resistant Coins
 GPU-, ASIC-, and/or Pool-resistant currency; (CPU) mainly for CPU mining, (GPU) mainly for GPU mining. Dominant GPU-mining coins: XMR, VTC. **Dominant CPU-mining coins: \*???\***
