@@ -22,7 +22,10 @@ A loose collection of cryptocurrency ressources
 - [Legend](#legend)
 
 ## Asset Classes
-Always ask first: does a use-case justify the deployment of a dedicated blockchain.
+Always ask ...
+- first: What's a currency's value proposition / use-case.
+- second: Does this use-case justify the deployment of a dedicated blockchain.
+- third: What is a currency's total supply and distribution model. 
 
 ### Cash Coins
 Low-fee, quick-confirm, fixed-cap, well-scaling currency. Sorted by value sent in [M$/24h] on [2019/09/15](https://bitinfocharts.com/comparison/sentinusd-btc-bch-dash-xmr-zec-sma7.html#log&6m):
