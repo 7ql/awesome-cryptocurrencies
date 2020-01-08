@@ -12,7 +12,7 @@ A loose collection of cryptocurrency ressources
   - [Dividend Tokens](#dividend-tokens)
   - [Blockchain Interop Projects](#blockchain-interop-projects)
   - [DAGs](#dags)
-  - [Joke Currencies](c/joke/README.md#joke-currencies)
+  - [Meme Currencies & Co](c/joke/README.md#meme-currencies)
   - [Unclassified Coins](c/unclassified/README.md#unclassified-coins)
 - [Resources](#resources)
   - [Analytics](#analytics)
@@ -86,7 +86,6 @@ Smart-contract networks.
 - Tezos
 - Waves
 - Ardor [[w]](https://ardorplatform.org/) (PoS, Fork of NXT, Java smart contracts)
-- Cardano<sup>nw</sup>
 - [OmiseGo](https://omisego.co/)<sup>erc20</sup> [[·]](c/omg/README.md) [[src]](https://github.com/omisego) [[r]](https://reddit.com/r/omise_go) (Exchange gateway, backed by Omise Co. Ltd., 20M funding, integrating fractured S-E-Asia finance market)
 
 ### Consensus Coins
