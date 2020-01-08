@@ -56,7 +56,7 @@ GPU-, ASIC-, and/or Pool-resistant currency; (CPU) mainly for CPU mining, (GPU) 
 Currencies, which mainly focus on a non-cash exchange.
 
 - Namecoin (dDNS)
-- Basic Attention Token<sup>x</sup><sup> </sup><sup>erc20</sup>
+- Basic Attention Token (BAT) <sup>x</sup><sup> </sup><sup>erc20</sup> [[w]](https://batgrowth.com/)
 - Golem (SuperComputer)
 - SiaCoin (Storage)
 - Storj (Storage)
