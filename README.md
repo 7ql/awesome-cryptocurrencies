@@ -142,6 +142,7 @@ of the more popular implementations, compiled by a zcoin developer.
 - ChainLink (Decentralised oracle provider for other chains.)
 - Ren
 - Polkadot
+- [THORchain](https://thorchain.org/) (Rune) Cosmos and Tendermint based x-chain LP.
 
 ### DAGs
 [Directed-acyclic-graph networks](https://en.wikipedia.org/wiki/Directed_acyclic_graph).
