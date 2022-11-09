@@ -23,7 +23,6 @@ A loose collection of cryptocurrency ressources
 
 ### Unclassified Coins
 
-- [Nimiq](https://nimiq.com/whitepaper) (Browser first blockchain. Easy onboarding)
 - [Numerai](https://numer.ai/)
 - [Ampleforth](https://www.ampleforth.org/) [[t]](https://t.me/Ampleforth) (Stable coin with price target correction)
 - [Kyber Network](https://kyber.network/) (integrate decentralised token swaps into apps)
