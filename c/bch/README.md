@@ -1,5 +1,5 @@
 # Bitcoin Cash
-Cryptocurrency focused on being cash. See also: [Cash Coins](../../README.md#cash-coins).
+Cryptocurrency focused on being cash. See also: [Cash Coins](../../README_4thCycle.md#cash-coins).
 
 ## Earn
 
