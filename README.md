@@ -72,6 +72,9 @@ Smart-contract networks.
 - [Cosmos](https://cosmos.network/) (PoS, [Tendermint](https://tendermint.com/docs/introduction/what-is-tendermint.html#consensus-overview) w/ 100 validators, "oracle for foreign chain's state")
 - ChainLink (Decentralised oracle provider for other chains.)
 - Ren
+- Polkadot
+- [THORchain](https://thorchain.org/) (Rune) Cosmos and Tendermint based x-chain LP.
+
 
 ### DAGs
 [Directed-acyclic-graph networks](https://en.wikipedia.org/wiki/Directed_acyclic_graph).
